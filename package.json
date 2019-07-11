@@ -4,7 +4,9 @@
   "description": "Return css classnames string",
   "main": "lib/index.js",
   "scripts": {
-    "test": "",
+    "test": "NEDE_ENV=test jest",
+    "test:w": "NEDE_ENV=test jest --watch",
+    "test:coverage": "npm test -- --coverage",
     "build": "./node_modules/.bin/babel src/index.js --out-dir lib/ --source-maps"
   },
   "repository": {
@@ -24,6 +26,9 @@
   "devDependencies": {
     "@babel/cli": "^7.5.0",
     "@babel/core": "^7.5.0",
-    "@babel/preset-env": "^7.5.0"
+    "@babel/preset-env": "^7.5.0",
+    "babel-jest": "^24.8.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^24.8.0"
   }
 }

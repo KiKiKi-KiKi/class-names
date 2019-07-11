@@ -1,7 +1,14 @@
-const presets = [
- [
-   "@babel/env",
- ],
-];
-
-module.exports = { presets };
+module.exports = {
+  presets: [
+    [
+      "@babel/env"
+    ]
+  ],
+  env: {
+    "test": {
+      "plugins": [
+        "transform-es2015-modules-commonjs",
+      ],
+    }
+  },
+};
