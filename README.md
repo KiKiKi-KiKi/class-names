@@ -1,5 +1,11 @@
 # classNames
 
+## install
+
+```sh
+$ npm install @kikiki_kiki/class-names
+```
+
 ## useage
 
 `classNames()` return merged arguments.
