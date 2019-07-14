@@ -12,13 +12,15 @@
 $ npm install @kikiki_kiki/class-names
 ```
 
+```js
+import classNames from '@kikiki_kiki/class-names';
+```
+
 ## useage
 
 `classNames()` return merged arguments.
 
 ```js
-import classNames from 'class-names';
-
 classNames('foo');
 // => "foo"
 
