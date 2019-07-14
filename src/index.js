@@ -31,13 +31,13 @@ function createClassNamelist(args = []) {
   return classes;
 }
 
-function classnames(...args) {
+function classNames(...args) {
   if ( !args.length ) {
     return '';
   }
 
-  const classNames = createClassNamelist(args);
-  return [...new Set(classNames)].join(' ').trim();
+  const classNameList = createClassNamelist(args);
+  return [...new Set(classNameList)].join(' ').trim();
 }
 
-export default classnames;
+export default classNames;
