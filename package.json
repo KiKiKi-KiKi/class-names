@@ -4,8 +4,8 @@
   "description": "Return css classnames string",
   "main": "lib/index.js",
   "scripts": {
-    "test": "NEDE_ENV=test jest",
-    "test:w": "NEDE_ENV=test jest --watch",
+    "test": "jest",
+    "test:w": "jest --watch",
     "test:coverage": "npm test -- --coverage",
     "build": "./node_modules/.bin/babel src/index.js --out-dir lib/ --source-maps"
   },
