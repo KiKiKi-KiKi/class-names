@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/chaika-design/class-names.svg?branch=master)](https://travis-ci.org/chaika-design/class-names)
+[![Coverage Status](https://coveralls.io/repos/github/chaika-design/class-names/badge.svg?branch=master)](https://coveralls.io/github/chaika-design/class-names?branch=master)
+[![MIT License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/chaika-design/class-names/blob/master/package.json)
+
 # classNames
 
 `classNames` is a simple modulem, which returns  classnames string with merged arguments.
