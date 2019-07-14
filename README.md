@@ -1,5 +1,7 @@
 # classNames
 
+`classNames` is a simple modulem, which returns  classnames string with merged arguments.
+
 ## install
 
 ```sh
