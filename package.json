@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/chaika-design/class-names#readme",
   "devDependencies": {
-    "@babel/cli": "^7.5.0",
-    "@babel/core": "^7.5.4",
-    "@babel/preset-env": "^7.5.4",
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
     "coveralls": "^3.0.5",
     "jest": "^24.8.0"
