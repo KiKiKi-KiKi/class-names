@@ -1,6 +1,6 @@
 {
   "name": "@kikiki_kiki/class-names",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "Return css classnames string",
   "main": "lib/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chaika-design/class-names.git"
+    "url": "git+https://github.com/KiKiKi-KiKi/class-names.git"
   },
   "keywords": [
     "classnames",
@@ -21,9 +21,9 @@
   "author": "Mori Hayashi <mori.kiki.hayashi@gmail.com> (https://twitter.com/KiKiKi_KiKi)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chaika-design/class-names/issues"
+    "url": "https://github.com/KiKiKi-KiKi/class-names/issues"
   },
-  "homepage": "https://github.com/chaika-design/class-names#readme",
+  "homepage": "https://github.com/KiKiKi-KiKi/class-names#readme",
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",

@@ -1,6 +1,7 @@
-[![Build Status](https://travis-ci.org/chaika-design/class-names.svg?branch=master)](https://travis-ci.org/chaika-design/class-names)
-[![Coverage Status](https://coveralls.io/repos/github/chaika-design/class-names/badge.svg?branch=master)](https://coveralls.io/github/chaika-design/class-names?branch=master)
-[![MIT License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/chaika-design/class-names/blob/master/package.json)
+[![NPM version](https://badgen.net/npm/v/@kikiki_kiki/class-names)](https://www.npmjs.com/package/https://badgen.net/npm/v/@kikiki_kiki/class-names)
+[![Build Status](https://travis-ci.org/KiKiKi-KiKi/class-names.svg?branch=master)](https://travis-ci.org/KiKiKi-KiKi/class-names)
+[![Coverage Status](https://coveralls.io/repos/github/KiKiKi-KiKi/class-names/badge.svg?branch=master)](https://coveralls.io/github/KiKiKi-KiKi/class-names?branch=master)
+[![MIT License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/KiKiKi-KiKi/class-names/blob/master/package.json)
 
 # classNames
 
